@@ -1,0 +1,32 @@
+.hero {
+    background-image: url('/images/hero-image_4-small.jpg');
+    height: 450px;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    background-position: center;
+    background-color: transparent;
+    width: 100%;
+}
+
+.heroinner {
+    margin: 0 auto;
+    max-width: 800px
+}
+
+.herotitle {
+    font-family: Recursive;
+    color: #fff;
+    font-weight: 600;
+    font-size: 3rem;
+    text-shadow: 1px 1px #141414
+}
+
+.herosubtitle {
+    color: #fff;
+    margin-top: 16px;
+    font-size: 1.7rem;
+    font-weight: 600;
+    text-shadow: 1px 1px #141414
+}
